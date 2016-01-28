@@ -1,0 +1,8 @@
+{
+  "title": "Firefox JS Injector",
+  "name": "ff-js-inject",
+  "version": "0.0.1",
+  "description": "Inject JS files into the DOM",
+  "author": "timychann",
+  "license": "MIT"
+  }
