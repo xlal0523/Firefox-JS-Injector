@@ -1,1 +1,1 @@
-window.alert('Injection Successful!');
+console.log('Injection Successful!');
